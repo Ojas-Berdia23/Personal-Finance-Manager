@@ -1,0 +1,6 @@
+ID,Type,Amount,Category,Description,Date
+1,INCOME,3500.00,Salary,Monthly salary,2024-01-01
+2,EXPENSE,45.50,Food & Dining,Lunch at restaurant,2024-01-02
+3,EXPENSE,120.00,Transportation,Gas for car,2024-01-03
+4,EXPENSE,89.99,Shopping,Groceries,2024-01-04
+5,INCOME,500.00,Freelance,Web design project,2024-01-05
