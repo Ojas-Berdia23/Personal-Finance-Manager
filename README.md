@@ -136,7 +136,7 @@ java src.FinanceManager
 - **Menu-Driven Interface:** User interaction design
 - **Data Persistence:** CSV-based storage system
 
-## 📈 Resume Highlights
+## 📈 Highlights
 
 This project demonstrates:
 - ✅ Real-world problem solving
@@ -161,10 +161,7 @@ This project demonstrates:
 ## 🤝 Contributing
 This is a portfolio project. Feel free to fork and create your own enhancements!
 
-## 📄 License
-This project is created for educational and portfolio purposes.
 
 ---
-**Created by:** [Your Name]  
-**Contact:** [Your Email]  
-**Portfolio:** [Your Portfolio URL]
+**Created by:** Ojas Berdia
+**Contact:** ojasberdia@gmail.com 
